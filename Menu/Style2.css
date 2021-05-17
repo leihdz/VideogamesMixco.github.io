@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    font-size: 350%;
+  }
+
+  h4 {
+    text-align: center;
+    font-size: 180%;
+  }
+
+  {margin: 100px;;padding: 1px;;box-sizing:border-box;font-size:0;}
+  nav a{
+    text-align: center;
+    text-decoration:none;
+    color:inherit;
+    font-size:20px;
+    } 
+    nav li{
+    text-align: center;
+    display:inline-block;
+    width:13%;
+    padding:10px 20px;
+    background-color:#457ae5;
+    border:1px solid #763ce2;
+    text-align:center;
+    color:#fff;
+    }
+    nav li:hover{
+    background-color:#0252f2;
+    color:#fff;
+    }
+  

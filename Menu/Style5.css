@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+    font-size: 250%;
+  }
+
+  h4 {
+
+    font-size: 150%;
+    text-align: center;
+  }
+
+  nav a{
+    text-align: center;
+    text-decoration:none;
+    color:inherit;
+    font-size:20px;
+    } 
+    nav li{
+    text-align: center;
+    display:inline-block;
+    width:13%;
+    padding:10px 20px;
+    background-color:#457ae5;
+    border:1px solid #763ce2;
+    text-align:center;
+    color:#fff;
+    }
+    nav li:hover{
+    background-color:#0252f2;
+    color:#fff;
+    }
+
+    #outerdiv {width: 100%; height: 80%; position:fixed; text-align:center}
+    #map_go {width: 70%; height: 80%; margin:0px auto; display:inline-block}
